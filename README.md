@@ -1,2 +1,2 @@
 # py-calc
-Calculadora hecha en python 3 y  wxpython
+Calculadora hecha en python 3 y  wxpython por aprendizaje
